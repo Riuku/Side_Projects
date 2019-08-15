@@ -60,12 +60,6 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
-    <None Include="icons\black_Rook.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="icons\white_Rook.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\black_Bishop.png" />
   </ItemGroup>
   <ItemGroup>

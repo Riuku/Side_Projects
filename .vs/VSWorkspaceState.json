@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\RPG_Game"
+    "\\Chess",
+    "\\Snake"
   ],
-  "SelectedNode": "\\RPG_Game\\Snake",
+  "SelectedNode": "\\Snake\\Snake.sln",
   "PreviewInSolutionExplorer": false
 }
