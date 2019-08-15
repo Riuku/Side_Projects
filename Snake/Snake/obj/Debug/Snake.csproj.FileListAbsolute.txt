@@ -1,0 +1,10 @@
+C:\Users\Chris\source\repos\Side_Projects\RPG_Game\TileMovements\bin\Debug\TileMovements.exe.config
+C:\Users\Chris\source\repos\Side_Projects\RPG_Game\TileMovements\bin\Debug\TileMovements.exe
+C:\Users\Chris\source\repos\Side_Projects\RPG_Game\TileMovements\bin\Debug\TileMovements.pdb
+C:\Users\Chris\source\repos\Side_Projects\RPG_Game\TileMovements\obj\Debug\Snake.csprojAssemblyReference.cache
+C:\Users\Chris\source\repos\Side_Projects\RPG_Game\TileMovements\obj\Debug\TileMovements.GameWindow.resources
+C:\Users\Chris\source\repos\Side_Projects\RPG_Game\TileMovements\obj\Debug\TileMovements.Properties.Resources.resources
+C:\Users\Chris\source\repos\Side_Projects\RPG_Game\TileMovements\obj\Debug\Snake.csproj.GenerateResource.cache
+C:\Users\Chris\source\repos\Side_Projects\RPG_Game\TileMovements\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\Chris\source\repos\Side_Projects\RPG_Game\TileMovements\obj\Debug\TileMovements.exe
+C:\Users\Chris\source\repos\Side_Projects\RPG_Game\TileMovements\obj\Debug\TileMovements.pdb

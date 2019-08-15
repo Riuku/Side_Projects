@@ -1,0 +1,12 @@
+C:\Users\Chris\source\repos\ExtraCurricular\Chess\ChessPanel\bin\Debug\ChessPanel.dll.config
+C:\Users\Chris\source\repos\ExtraCurricular\Chess\ChessPanel\bin\Debug\ChessPanel.dll
+C:\Users\Chris\source\repos\ExtraCurricular\Chess\ChessPanel\bin\Debug\ChessPanel.pdb
+C:\Users\Chris\source\repos\ExtraCurricular\Chess\ChessPanel\obj\Debug\ChessPanel.csprojAssemblyReference.cache
+C:\Users\Chris\source\repos\ExtraCurricular\Chess\ChessPanel\obj\Debug\ChessPanel.Properties.Resources.resources
+C:\Users\Chris\source\repos\ExtraCurricular\Chess\ChessPanel\obj\Debug\ChessPanel.csproj.GenerateResource.cache
+C:\Users\Chris\source\repos\ExtraCurricular\Chess\ChessPanel\obj\Debug\ChessPanel.csproj.CoreCompileInputs.cache
+C:\Users\Chris\source\repos\ExtraCurricular\Chess\ChessPanel\obj\Debug\ChessPanel.dll
+C:\Users\Chris\source\repos\ExtraCurricular\Chess\ChessPanel\obj\Debug\ChessPanel.pdb
+C:\Users\Chris\source\repos\ExtraCurricular\Chess\ChessPanel\bin\Debug\ChessGame.dll
+C:\Users\Chris\source\repos\ExtraCurricular\Chess\ChessPanel\bin\Debug\ChessGame.pdb
+C:\Users\Chris\source\repos\ExtraCurricular\Chess\ChessPanel\obj\Debug\ChessPanel.csproj.CopyComplete
